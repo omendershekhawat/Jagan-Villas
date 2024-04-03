@@ -212,7 +212,7 @@ const Home = () => {
             break;
         }
         break;
-        case "thur":
+      case "thur":
 
         switch (time) {
           case "breakfast":
@@ -231,7 +231,7 @@ const Home = () => {
             break;
         }
         break;
-          case "fri":
+      case "fri":
 
         switch (time) {
           case "breakfast":
@@ -250,7 +250,7 @@ const Home = () => {
             break;
         }
         break;
-        case "sat":
+      case "sat":
 
         switch (time) {
           case "breakfast":
@@ -269,7 +269,7 @@ const Home = () => {
             break;
         }
         break;
-        case "sun":
+      case "sun":
 
         switch (time) {
           case "breakfast":
@@ -294,7 +294,7 @@ const Home = () => {
         SetdishName("Select Meal From options")
         break;
     }
-  }, [time,day])
+  }, [time, day])
 
   return (
     <div className="home">
@@ -304,7 +304,7 @@ const Home = () => {
         <p>Step into a world of quality living. Our Boys PG is designed to cater to your needs, ensuring you have the time and space to focus on your goals. Choose us for a safe, secure, and comfortable environment that feels just like home.</p>
 
         <div className="btn-cont">
-        <a className=' btn' id='viewmore' href="#page2"> View More</a>
+          <a className=' btn' id='viewmore' href="#page2"> View More</a>
         </div>
 
 

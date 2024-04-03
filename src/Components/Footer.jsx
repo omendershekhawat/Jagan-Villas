@@ -19,6 +19,11 @@ const Footer = () => {
                 <span>Heigenic Environment</span>
                 <span>AC Rooms</span>
                 <span>Free Wi-Fi</span>
+                <span>Transport Facility </span>
+                <span>Laundary facility</span>
+              
+
+
             </div>
             <div className="box">
                 <h1>Contact Us</h1>
