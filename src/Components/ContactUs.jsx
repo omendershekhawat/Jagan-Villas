@@ -52,7 +52,7 @@ const ContactUs = () => {
 
             <div className="item-box">
               <img src={location} alt="Not Available" />
-              <a href="" id='location'>C-23,Berwa Colony, Bajaj Nagar, Jaipur - 302015</a>
+              <a href="https://maps.app.goo.gl/cMnagBSkmqDqzjHK6" id='location'>C-23,Berwa Colony, Bajaj Nagar, Jaipur - 302015</a>
             </div> 
 
               

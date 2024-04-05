@@ -29,7 +29,7 @@ const Footer = () => {
                 <h1>Contact Us</h1>
                 <div>
                     <img src={location} alt="not found" />
-                    <a href="">C-23,Berwa Colony,Bajaj Nagar,Jaipur - 302015</a>
+                    <a href="https://maps.app.goo.gl/cMnagBSkmqDqzjHK6">C-23,Berwa Colony,Bajaj Nagar,Jaipur - 302015</a>
                 </div>
                 <div >
                     <img src={call} alt="not found" />
